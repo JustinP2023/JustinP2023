@@ -16,4 +16,4 @@ Here are some ideas to get you started: -->
  - naver(네이버 메일) : dsc72@naver.com
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
-- My major : Robot Engineering  ; 로봇 공학 전공
+#### My major : Robot Engineering  ; 로봇 공학 전공
