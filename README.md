@@ -11,8 +11,8 @@ Here are some ideas to get you started: -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: 
- - google : pakjy47@gmail.com
+- 📫 How to reach me:
+ - google(g-mail) : pakjy47@gmail.com
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 - My major : Robot Engineering  ; 로봇 공학 전공
