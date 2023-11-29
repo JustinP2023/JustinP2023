@@ -11,7 +11,8 @@ Here are some ideas to get you started: -->
 <!-- - 🔭 I’m currently working on ...  -->
 ##### 🌱 I’m currently learning Python, Data Science, and Github
 #####        파이썬, 데이터 사이언스, 깃허브 공부 중
-- 👯 I’m looking to collaborate on project
+- I'm studying at Multicampus now
+- 👯 I’m looking to collaborate on project-team
 - 🤔 I’m looking for help with project
 <!-- - 💬 Ask me about ... -->
 ##### 📫 How to reach me:
