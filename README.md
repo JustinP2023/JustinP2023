@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me:
  - google(g-mail) : pakjy47@gmail.com
+ - naver : dsc72@naver.com
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 - My major : Robot Engineering  ; 로봇 공학 전공
