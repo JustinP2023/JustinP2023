@@ -21,4 +21,5 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... -->
 ##### My major : Robot Engineering  ; 로봇 공학 전공
-##### account for study : kimdandy
+
+##### account for study C++ : kimdandy
